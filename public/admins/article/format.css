@@ -1,0 +1,9 @@
+.article_hover:hover{
+    background-color:#ebf3ff;
+    transition: 0.4s;
+
+}
+
+.article_icon:hover{
+    color:#19a185;
+}
